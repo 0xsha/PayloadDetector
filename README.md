@@ -8,7 +8,7 @@ This repository contains source code, notebooks, and models for the "A Machine L
 
 ## Goodies
 - Arguably the most comprehensive web attack (payload) dataset of the time, which should benefit every security researcher and company working on web application attacks. 
-- A "minimalist" framework to do your payload machine learning projects 
+- A "minimalist" customized framework to do your payload machine learning projects 
 - A starting place for mixing machine learning and cybersecurity 
 
 ## Limits
