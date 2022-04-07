@@ -34,11 +34,14 @@ Here is how our simple framework directories are structured
 ### models
 
 contains saved models from our experiments. Use with caution as you may need to rebuild your models. 
-notebooks 
+
+### notebooks 
+
 - EDA: exploratory data analysis 
 - Experiments: the payload detection logic and experiments.You can find some thoughts and ideas in commented codes as well.  
 
 ### paper 
+
 - the academic paper behind this work 
 
 
