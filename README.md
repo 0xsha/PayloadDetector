@@ -17,28 +17,28 @@ This repository contains source code, notebooks, and models for the "A Machine L
 - Not battle-tested 
 
 
-# Framework
+## Framework
 Here is how our simple framework directories are structured 
 
-data   
+### data   
 
 - sources: sources we used to generate the final dataset 
 - final: crafted final datasets from sources 
 
-helpers
+### helpers
 
 - dataset.py: dataset generator 
 - server.py: bare minimal async HTTP webserver to collect and detect attacks
 - cli.py: contains model loading and prediction examples. please note it uses the base model not the optimized one by default.
 
-models
+### models
 
 contains saved models from our experiments. Use with caution as you may need to rebuild your models. 
 notebooks 
 - EDA: exploratory data analysis 
 - Experiments: the payload detection logic and experiments.You can find some thoughts and ideas in commented codes as well.  
 
-paper 
+### paper 
 - the academic paper behind this work 
 
 
@@ -51,7 +51,7 @@ We suggest using Google Colab or Anaconda to manage dependencies; otherwise, ins
 This framework can also act as a boilerplate for similar research. You can now use the same structure to easily manage your research.
 
 
-# Base model test run
+## Base model test run
 
 example of payloads and base (not optimized) 
 RandomForest model.
