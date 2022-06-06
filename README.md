@@ -1,4 +1,4 @@
-# Welcome to the Payload Detector  
+# Welcome to the Payload Detector
 
 
 ![PayloadDetector](./screenshots/PayloadDetector.png)
