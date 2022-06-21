@@ -79,6 +79,10 @@ test_payloads = ["system(ls -la)", "xss", "crlf", "xxe", "sqli", "injection", ".
 ![RFBaseModel](./screenshots/cli.png)
 
 
+## Dataset Citation
+
+S. Ramezany, R. Setthawong and T. Tanprasert, "A Machine Learning-based Malicious Payload Detection and Classification Framework for New Web Attacks," 2022 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 2022, pp. 1-4, doi: 10.1109/ECTI-CON54298.2022.9795455.
+
 ## Credits
 
 - [payloadidentifier](https://github.com/tarcisio-marinho/PayloadIdentifier)
